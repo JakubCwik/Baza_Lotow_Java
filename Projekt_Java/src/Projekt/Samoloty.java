@@ -152,7 +152,7 @@ public class Samoloty {
 		frame.getContentPane().add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Kuba\\OneDrive\\Pulpit\\Java\\Projekt_Java\\icon\\tlo_strona_glowna.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Kuba\\git\\Baza_Lotow_Java\\Projekt_Java\\icon\\tlo_strona_glowna.jpg"));
 		lblNewLabel_1.setBounds(0, 0, 718, 510);
 		frame.getContentPane().add(lblNewLabel_1);
 	}

@@ -424,7 +424,7 @@ public class Okno_Dostepne_Loty {
 		table.getColumnModel().getColumn(6).setPreferredWidth(91);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Kuba\\OneDrive\\Pulpit\\Java\\Projekt_Java\\icon\\samoloty_1920x1080_026_chmury__pas_startowy.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Kuba\\git\\Baza_Lotow_Java\\Projekt_Java\\icon\\samoloty_1920x1080_026_chmury__pas_startowy.jpg"));
 		lblNewLabel.setBounds(0, 0, 1382, 538);
 		frame.getContentPane().add(lblNewLabel);
 	}

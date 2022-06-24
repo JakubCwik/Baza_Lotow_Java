@@ -62,7 +62,7 @@ public class Okno_Informacje {
 		lblNewLabel_2.setBounds(30, 85, 492, 63);
 		frame.getContentPane().add(lblNewLabel_2);
 		
-		JLabel lblNewLabel_3 = new JLabel("- wyb\u00F3r odpowiedniego dla siebie lotu oraz rezerwacja biletu,");
+		JLabel lblNewLabel_3 = new JLabel("- wyb\u00F3r odpowiedniego dla siebie lotu,");
 		lblNewLabel_3.setFont(new Font("Tw Cen MT Condensed Extra Bold", Font.PLAIN, 20));
 		lblNewLabel_3.setBounds(30, 168, 492, 63);
 		frame.getContentPane().add(lblNewLabel_3);

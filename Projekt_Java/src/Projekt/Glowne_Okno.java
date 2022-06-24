@@ -100,7 +100,7 @@ public class Glowne_Okno {
 		frame.getContentPane().add(btn_1);
 		
 		JLabel lblNewLabel = new JLabel("New label");
-		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Kuba\\OneDrive\\Pulpit\\Java\\Projekt_Java\\icon\\tlo_strona_glowna.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\Kuba\\git\\Baza_Lotow_Java\\Projekt_Java\\Zdjecia\\tlo_strona_glowna.jpg"));
 		lblNewLabel.setBounds(0, 0, 734, 370);
 		frame.getContentPane().add(lblNewLabel);
 	}

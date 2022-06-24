@@ -390,7 +390,7 @@ frame.getContentPane().setLayout(null);
 		frame.getContentPane().add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("New label");
-		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Kuba\\OneDrive\\Pulpit\\Java\\Projekt_Java\\icon\\sam_msc.jpg"));
+		lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\Kuba\\git\\Baza_Lotow_Java\\Projekt_Java\\icon\\sam_msc.jpg"));
 		lblNewLabel_1.setBounds(-244, -61, 733, 702);
 		frame.getContentPane().add(lblNewLabel_1);
 	}

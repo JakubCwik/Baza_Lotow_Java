@@ -95,7 +95,7 @@ public class Strona_Startowa {
 		frame.getContentPane().add(lblNewLabel);
 		
 		JLabel tlo = new JLabel("");
-		tlo.setIcon(new ImageIcon("C:\\Users\\Kuba\\OneDrive\\Pulpit\\Java\\Projekt_Java\\Zdjecia\\tlo_strona_glowna.jpg"));
+		tlo.setIcon(new ImageIcon("C:\\Users\\Kuba\\git\\Baza_Lotow_Java\\Projekt_Java\\icon\\tlo_strona_glowna.jpg"));
 		tlo.setBounds(0, 0, 691, 446);
 		frame.getContentPane().add(tlo);
 	}
